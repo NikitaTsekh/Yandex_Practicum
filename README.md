@@ -8,4 +8,4 @@ Projects finished during education in 2021
 | 3   | Будет загружен позже   |    |  |
 
 
-<a href="/index.html"/>
+<a href="/index.html"/>ssylka</a>
