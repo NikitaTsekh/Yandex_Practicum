@@ -7,5 +7,6 @@ Projects finished during education in 2021
 | 2   | <a href="https://github.com/NikitaTsekh/Yandex_Practicum/tree/main/final_project"/>Промышленность</a> |Построение модели, предсказывающей финальную температуру стали    | pandas,sklearn,matpotlib |
 | 3   | <a href="https://github.com/NikitaTsekh/Yandex_Practicum/tree/main/toxic_comments/">Токсичные комментарии </a>  |  Построение модели классификации для токсичных/нетоксичных комментариев  |pandas,nltk,mystem  |
 | 4   | <a href="https://github.com/NikitaTsekh/Yandex_Practicum/tree/main/bank_clients/">Отток клиентов банка</a>  |  Построение модели предсказания ухода клиента  |pandas,sklearn |
+| 5   | <a href="https://github.com/NikitaTsekh/Yandex_Practicum/tree/main/tarifs_recommendation/">Рекомендации тарифов</a>  |  Построение модели предсказания подходящего тарифа  |pandas,sklearn |
 
 
