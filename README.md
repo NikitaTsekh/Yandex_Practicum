@@ -9,4 +9,4 @@ Projects finished during education in 2021
 | 4   | <a href="https://github.com/NikitaTsekh/Yandex_Practicum/tree/main/bank_clients/">Отток клиентов банка</a>  |  Построение модели предсказания ухода клиента  |pandas,sklearn |
 | 5   | <a href="https://github.com/NikitaTsekh/Yandex_Practicum/tree/main/tarifs_recommendation/">Рекомендации тарифов</a>  |  Построение модели предсказания подходящего тарифа  |pandas,sklearn |
 | 6   | <a href="https://github.com/NikitaTsekh/Yandex_Practicum/tree/main/loantakers_creditability/">Исследование надёжности заёмщиков</a>  | Анализ влияния различных параметром заемщика на факт погашения кредита |pandas,Mystem |
-
+| 7   | <a href="https://github.com/NikitaTsekh/Yandex_Practicum/tree/main/real_estate/">Исследование объявлений о продаже квартир</a>  |Анализ влияния разных факторов на цену недвижимости |pandas,matpotlib,seaborn |
