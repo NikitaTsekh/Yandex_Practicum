@@ -13,4 +13,4 @@ Projects finished during education in 2021
 | 8   | <a href="https://github.com/NikitaTsekh/Yandex_Practicum/blob/main/tariff/readme/">Определение перспективного тарифа для телеком компании</a>|Анализ 2х тарифов телеком компании |pandas,matpotlib,scipy |
 | 9   | <a href="https://github.com/NikitaTsekh/Yandex_Practicum/tree/main/gaming/">Анализ рынка игр</a>|Анализ данных о продаже игр |pandas,matpotlib,scipy,numpy |
 | 10   | <a href="https://github.com/NikitaTsekh/Yandex_Practicum/tree/main/well_project/">Выбор локации для скважины</a>|Выбор региона с наибольшей прибылью|pandas,matpotlib,sklearn,numpy |
-
+| 11   | <a href="https://github.com/NikitaTsekh/Yandex_Practicum/tree/main/autos/">Определение стоимости автомобилей</a>|Построение модели для предсказания цены автомобиля|pandas,matpotlib,sklearn,numpy,LGBM |
