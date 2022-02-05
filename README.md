@@ -11,3 +11,4 @@ Projects finished during education in 2021
 | 6   | <a href="https://github.com/NikitaTsekh/Yandex_Practicum/tree/main/loantakers_creditability/">Исследование надёжности заёмщиков</a>  | Анализ влияния различных параметром заемщика на факт погашения кредита |pandas,Mystem |
 | 7   | <a href="https://github.com/NikitaTsekh/Yandex_Practicum/tree/main/real_estate/">Исследование объявлений о продаже квартир</a>  |Анализ влияния разных факторов на цену недвижимости |pandas,matpotlib,plotly |
 | 8   | <a href="https://github.com/NikitaTsekh/Yandex_Practicum/blob/main/tariff/readme/">Определение перспективного тарифа для телеком компании</a>|Анализ 2х тарифов телеком компании |pandas,matpotlib,scipy |
+| 9   | <a href="https://github.com/NikitaTsekh/Yandex_Practicum/tree/main/gaming/">Анализ рынка игр</a>|Анализ данных о продаже игр |pandas,matpotlib,scipy,numpy |
