@@ -1,6 +1,6 @@
 # Yandex_Practicum
 
-:white_check_mark: Это уже сделано    
+:blue book: Это уже сделано    
 
 
 Projects finished during education in 2021
