@@ -1,7 +1,7 @@
 # Yandex_Practicum
 
-:blue_book: Это уже сделано    
-
+:scroll: <a href="https://github.com/NikitaTsekh/Yandex_Practicum/blob/main/certificates/yandex_ds_diploma_ru.pdf>Диплом на русском языке</a>     
+:scroll:<a href="https://github.com/NikitaTsekh/Yandex_Practicum/blob/main/certificates/yandex_ds_diploma_en.pdf">Diploma in english</a>  
 
 Projects finished during education in 2021
 
