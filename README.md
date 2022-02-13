@@ -1,4 +1,8 @@
 # Yandex_Practicum
+
+:white_check_mark: Это уже сделано    
+
+
 Projects finished during education in 2021
 
 | №   | Проект  | Задачи |  Навыки и инструменты |
